@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Dawit Mengesha!  
 
-<!--
-**daveontrack/daveontrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a designer & web developer from Ethiopia, passionate about creating sleek and functional user interfaces. I specialize in UI/UX design and love working with modern web technologies.  
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveontrack)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack  
+- Frontend:  React, React Native, Bootstrap, Tailwind CSS, JavaScript, HTML, CSS  
+- UI/UX: Figma, Adobe XD
+- Programming Languages: C++, Python, Java, C#, Ruby  
+- Backend Technologies: Node.js, Express.js, PHP, MySQL 
+
+### 🚀 Let's Connect  
+- GitHub: (https://github.com/daveontrack)  
+- Telegram: (https://t.me/Daveontrack)  
+
+Always excited to collaborate and learn! ✨  
