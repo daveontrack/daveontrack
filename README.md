@@ -8,7 +8,6 @@ I specialize in UI/UX design and love working with modern web technologies.</h3>
 
  💻 Tech Stack  
 - Frontend:  React, React Native, Bootstrap, Tailwind CSS, JavaScript, HTML, CSS  
-- UI/UX: Figma, Adobe XD
 - Programming Languages: C++, Python, Java, C#, Ruby  
 - Backend Technologies: Node.js, Express.js, PHP, MySQL,MONGODB 
 
