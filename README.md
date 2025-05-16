@@ -1,6 +1,6 @@
 #  👋 Hey, I'm Dawit Mengesha!  
 
-I'm a designer & web developer from Ethiopia, passionate about creating sleek and functional user interfaces.<br> 
+I'm a web developer from Ethiopia, passionate about creating sleek and functional user interfaces.<br> 
 I specialize in UI/UX design and love working with modern web technologies.</h3>
 
 <img align="right" alt ="Coding " width="550" height="550" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif">
