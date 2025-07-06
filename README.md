@@ -3,8 +3,8 @@
 I'm a web developer from Ethiopia, passionate about creating sleek and functional user interfaces.<br> 
 I specialize in UI/UX design and love working with modern web technologies.</h3>
 
-<img align="right" alt="Coding" width="550" height="550" src="https://media.tenor.com/vbn2yWveLp4AAAAM/programmer-coding.gif" />
->
+<img align="right" alt="Chill Coder Typing" width="550" height="550" src="https://media.tenor.com/rlRUrI-1PvUAAAAM/coding.gif" />
+
 
  💻 Tech Stack  
 - Frontend:  React, React Native, Bootstrap, Tailwind CSS, JavaScript, HTML, CSS  
