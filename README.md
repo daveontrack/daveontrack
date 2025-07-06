@@ -3,7 +3,7 @@
 I'm a web developer from Ethiopia, passionate about creating sleek and functional user interfaces.<br> 
 I specialize in UI/UX design and love working with modern web technologies.</h3>
 
-- [🖥 My portfolio website](https://dawitmengesha.netlify.app/)
+🖥 [My portfolio website](https://dawitmengesha.netlify.app/)
 
 <img align="right" alt ="Coding " width="550" height="550" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveontrack&label=Profile%20views&color=0e75b6&style=flat" alt="daveontrack" /> </p>
