@@ -12,7 +12,7 @@ I specialize in UI/UX design and love working with modern web technologies.</h3>
  💻 Tech Stack  
 - Frontend:  React, React Native,Nextjs, Bootstrap, Tailwind CSS, JavaScript, HTML, CSS  
 - Programming Languages: C++, Python, Java  
-- Backend Technologies: Node.js, Express.js, PHP, MySQL,MONGOO DB, SUPABASE
+- Backend Technologies: Node.js, Express.js, PHP, MySQL,MONGOO DB, SUPABASE ,PostgreSQL
 
 - 📫 How to reach me: Dawitberiso406@gmail.com
 
