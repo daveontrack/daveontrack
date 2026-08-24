@@ -1,134 +1,167 @@
-# 👋 Hey, I'm Dawit Mengesha
+<!-- Animated Header -->
 
-### 💻 Full-Stack Web Developer | UI/UX Enthusiast | Software Engineering Student
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Dawit%20Mengesha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-I'm a passionate **Full-Stack Web Developer from Ethiopia** who enjoys building modern, responsive, and user-friendly digital experiences.
+<!-- Typing Animation -->
 
-I love turning ideas into functional products with clean interfaces, scalable architectures, and modern technologies. I'm always learning, experimenting, and looking for opportunities to build something meaningful. 🚀
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;UI%2FUX+Enthusiast;Software+Engineering+Student;React+%7C+Next.js+%7C+Node.js;Building+Modern+Digital+Experiences;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-🌐 **Portfolio:** [dawitmengesha.netlify.app](https://dawitmengesha.netlify.app/)
+<h3 align="center">
+  💻 Full-Stack Developer • 🎨 UI/UX Enthusiast • 🚀 Tech Builder
+</h3>
 
-<img align="right" alt="Coding" width="420" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif">
-
-![Profile Views](https://komarev.com/ghpvc/?username=daveontrack\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<p align="center">
+  <a href="https://dawitmengesha.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-36BCF7?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/daveontrack">
+    <img src="https://img.shields.io/badge/GitHub-daveontrack-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://t.me/Daveontrack">
+    <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding Animation" width="420" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif">
 
-* 🎓 Software Engineering student
-* 💻 Full-Stack Web Developer
-* 🎨 Interested in UI/UX and modern frontend development
-* 🧠 Passionate about solving real-world problems with technology
-* 🌱 Always learning new tools, frameworks, and best practices
-* 🤝 Open to collaboration and interesting projects
-* ⚡ Fun fact: **I'm funny... at least that's what I tell myself 😄**
+## 👋 About Me
+
+I'm **Dawit Mengesha**, a passionate **Full-Stack Web Developer from Ethiopia** focused on creating modern, responsive, and user-friendly applications.
+
+I enjoy combining **clean UI/UX design** with powerful backend technologies to turn ideas into real-world products.
+
+* 💻 Building modern web applications
+* 🎨 Designing clean and intuitive interfaces
+* 🧠 Exploring new technologies
+* 🚀 Working on real-world software projects
+* 🤝 Open to collaboration
+* 🌱 Always learning and improving
+* ⚡ Fun fact: **I am funny 😄**
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-`React` · `Next.js` · `React Native` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-`Node.js` · `Express.js` · `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+</p>
 
-### Programming Languages
+### 🗄️ Databases
 
-`JavaScript` · `Python` · `Java` · `C++`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
+</p>
 
-### Databases
+### 🔧 Tools & Platforms
 
-`PostgreSQL` · `Supabase` · `MySQL` · `MongoDB`
-
-### Tools & Platforms
-
-`Git` · `GitHub` · `VS Code` · `Vercel` · `Netlify`
-
----
-
-## 🧰 Languages & Tools
-
-<p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Languages
+
+```text
+JavaScript    ████████████████████
+Python        ████████████████░░░░
+Java          ██████████████░░░░░░
+C++           ████████████░░░░░░░░
+PHP           ███████████░░░░░░░░░
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daveontrack&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveontrack&layout=compact&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=daveontrack&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveontrack&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daveontrack&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daveontrack&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Animation
 
-📧 **Email:** [Dawitberiso406@gmail.com](mailto:Dawitberiso406@gmail.com)
-
-🌐 **Portfolio:** [dawitmengesha.netlify.app](https://dawitmengesha.netlify.app/)
-
-💻 **GitHub:** [github.com/daveontrack](https://github.com/daveontrack)
-
-📱 **Telegram:** [t.me/Daveontrack](https://t.me/Daveontrack)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daveontrack/daveontrack/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
-### ✨ Always building. Always learning. Always improving.
+## 📈 Contribution Activity
 
-> *"Great software isn't just built — it's designed, tested, improved, and built again."*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daveontrack&hide_border=true&area=true" width="100%" />
+</p>
 
-⭐ **Thanks for visiting my profile!**
+---
+
+## 🚀 Featured Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:Dawitberiso406@gmail.com">
+<img src="https://img.shields.io/badge/Email-Dawitberiso406%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://dawitmengesha.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/daveontrack">
+<img src="https://img.shields.io/badge/GitHub-daveontrack-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://t.me/Daveontrack">
+<img src="https://img.shields.io/badge/Telegram-@Daveontrack-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+✨ **Always Building • Always Learning • Always Improving** ✨
+
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+</p>
