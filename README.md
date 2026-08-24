@@ -104,7 +104,11 @@ PHP           ███████████░░░░░░░░░
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daveontrack/daveontrack/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=daveontrack&theme=tokyo-night&hide_border=true&area=true"
+    alt="Dawit Mengesha GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
